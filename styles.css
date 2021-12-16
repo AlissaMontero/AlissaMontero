@@ -40,8 +40,8 @@ P {color: black;
 		margin-left: auto;
 		margin-right: auto;
 		width: 500px;}
-div {display: block;
-		iframe {
+div
+ iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
